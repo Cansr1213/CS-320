@@ -1,1 +1,9 @@
 # CS-320
+1. How can I ensure that my code, program, or software is functional and secure?
+Ensuring the functionality and security of my code involves a rigorous testing process. In Project One, I implemented comprehensive unit tests for the Contact class and the associated ContactService. I utilized tools like JUnit to systematically validate individual components and their interactions. Additionally, I incorporated automated testing into my workflow, allowing for continuous integration and rapid feedback on potential issues. To address security concerns, I followed best practices such as input validation and sanitization to prevent common vulnerabilities like SQL injection or buffer overflows.
+
+2. How do I interpret user needs and incorporate them into a program?
+Interpreting user needs is a critical aspect of software development. In Project One, I engaged in active communication with stakeholders to understand their requirements for the contact service. This involved translating user stories into concrete functionalities and incorporating them into the codebase. Regular feedback loops were established, allowing for iterative adjustments based on user input. User acceptance testing (UAT) was also employed to ensure that the implemented features aligned with the end-users' expectations.
+
+3. How do I approach designing software?
+Designing software requires a systematic and thoughtful approach. In Project Two, I adopted a structured design methodology that involved breaking down the problem into modular components. I focused on creating clean and maintainable code by adhering to design principles such as SOLID. To enhance the software's testability, I designed interfaces that allowed for easy unit testing and mocking. Additionally, I embraced an agile mindset, enabling me to adapt the software design based on evolving requirements and feedback from the testing phase.
